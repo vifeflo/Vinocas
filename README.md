@@ -9,9 +9,9 @@
 
 • 🌐 Contato
 <br>
-[![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusferreiraflorencio/)
-<a href = "mailto: viniciusferreiraflorencio@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-<a href = "https://wa.me/+5513992024705"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a target= "_blank" href = "https://www.linkedin.com/in/viniciusferreiraflorencio/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a target= "_blank" href = "mailto: viniciusferreiraflorencio@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<a target= "_blank" href = "https://wa.me/+5513992024705"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 ![](https://github-readme-stats.vercel.app/api?username=Vinocas&show_icons=true&theme=transparent)
 <br>
