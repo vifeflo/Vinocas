@@ -5,7 +5,7 @@
 <br>
 • 🌱 Estudando Análise e Desenvolvimento de Sistemas
 <br>
-• 📚 [Fatec Rubens Lara](https://fatecrl.edu.br/)
+• 📚 [Faculdade de Tecnologia do Estado de São Paulo - Campus Rubens Lara](https://fatecrl.edu.br/)
 <br>
 
 <div>
