@@ -1,5 +1,4 @@
-## 🏳️‍🌈☠️🤘💻🔥🎮🍃 <br> 
-<div>
+## 🏳️‍🌈☠️🤘💻🔥🎮🍃 <br>
 <b>• 📌 Baixada Santista SP/Brasil
 <br>
 • 🗣️ PT nativo | EN avançado
@@ -7,7 +6,6 @@
 • 🌱 Estudando Análise e Desenvolvimento de Sistemas
 <br>
 • 📚 [Fatec Rubens Lara](https://fatecrl.edu.br/)
-</div>
 <br>
 
 <div>
