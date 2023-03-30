@@ -1,22 +1,23 @@
 ## 🏳️‍🌈☠️🤘💻🔥🎮🍃 <br> 
 <b>• 📌 Baixada Santista SP/Brasil
 <br>
-• 🗣️ PT/EN
+• 🗣️ PT nativo | EN avançado
 <br>
 • 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 <br>
 • 📚 [Fatec Rubens Lara](https://fatecrl.edu.br/)
 
-• 📨 Contato
+• ✉ Contato
 <br>
 <a href = "https://www.linkedin.com/in/viniciusferreiraflorencio/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "mailto: viniciusferreiraflorencio@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <a href = "https://wa.me/+5513992024705"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=Vinocas&show_icons=true&theme=transparent&hide_title=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinocas&layout=compact&theme=transparent&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/Vinocas/github-readme-stats)
 <br>
-• Linguagens e ferramentas 💻⚙️
+• Linguagens e ferramentas favoritas 💻⚙️
 <div style="display: inline_block">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
