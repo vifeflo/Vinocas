@@ -18,7 +18,7 @@
 <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=Vinocas&show_icons=true&theme=transparent&hide_title=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinocas&layout=compact&theme=transparent&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/Vinocas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinocas&theme=transparent&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/Vinocas/github-readme-stats)
  
 <div>
 • Linguagens e ferramentas favoritas 💻⚙️<br>
