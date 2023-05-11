@@ -15,10 +15,11 @@
 <a href = "mailto: viniciusferreiraflorencio@live.com"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <a href = "https://wa.me/+5513992024705"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
-<br>
 
-![](https://github-readme-stats.vercel.app/api?username=Vinocas&show_icons=true&theme=transparent&hide_title=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinocas&layout=compact&langs_count=7&theme=transparent&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/Vinocas/github-readme-stats)
+<div align="left">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vinocas&show_icons=true&locale=en&count_private=true&hide_border=true&title_color=25f776&icon_color=25b1f7&text_color=c9d1d9&bg_color=0d1117&hide_title=true" alt="Vinicius Florencio GitHub Stats" />
+<img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vinocas&layout=compact&hide_border=true&title_color=25f776&text_color=c9d1d9&bg_color=0d1117"/>
+</div>
  
 <div>
 • Linguagens e ferramentas favoritas 💻⚙️<br>
