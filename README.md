@@ -32,4 +32,4 @@
 <img alt="Microsoft Power BI" src="https://camo.githubusercontent.com/d10e346678b885e7ebed0f04e8a2e0874c276520997b070623819cfea2f02d8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7765725f62692d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b">
 </div>
   
-![snake animation](https://github.com/<vinocas>/<vinocas>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/vinocas/vinocas/blob/output/github-contribution-grid-snake2.svg)
