@@ -7,7 +7,7 @@
 <br>
 • 📚 [Faculdade de Tecnologia do Estado de São Paulo - Campus Rubens Lara](https://fatecrl.edu.br/)
 <br>
-• 🌐 https://vinocas.github.io/
+• 🌐 Portfólio pessoal: https://vinocas.github.io/
 
 <div>
 • ✉ Fale comigo
