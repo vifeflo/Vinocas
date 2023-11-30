@@ -42,14 +42,14 @@ Competências: `Desenvolvimento Web`, `WordPress`
 
 <br>
 
-[<img align="left" height="94px" alt="Prefeitura da Estância Balneária de Praia Grande" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Brasão_de_Praia_Grande-SP.png"/>](https://www2.praiagrande.sp.gov.br/)
+[<img align="left" width="94px" alt="Prefeitura da Estância Balneária de Praia Grande" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Brasão_de_Praia_Grande-SP.png"/>](https://www2.praiagrande.sp.gov.br/)
 **Agente Administrativo | Auxiliar de Bibliotecário** \
 [**Prefeitura da Estância Balneária de Praia Grande**](https://www2.praiagrande.sp.gov.br/) • dez/2018 a fev/2023 \
 Competências: `Atendimento ao Cliente`, `Administração`,<br/> `Gestão de Projetos`, `Pacote Office`, `Trabalho em Equipe`
 
 <br>
 
-[<img align="left" height="94px" alt="Tribunal Regional Eleitoral de SP" src="https://cdn.focusconcursos.com.br/5333f320-a79d-11e7-be81-833fcc7d70fc/Produtos/tribunais/sp/tribunal-regional-eleitoral/tre-sp.png"/>](https://www.tre-sp.jus.br/)
+[<img align="left" width="94px" alt="Tribunal Regional Eleitoral de SP" src="https://cdn.focusconcursos.com.br/5333f320-a79d-11e7-be81-833fcc7d70fc/Produtos/tribunais/sp/tribunal-regional-eleitoral/tre-sp.png"/>](https://www.tre-sp.jus.br/)
 **Estagiário** \
 [**Tribunal Regional Eleitoral de SP, 177ª Zona Eleitoral**](https://www.tre-sp.jus.br/) • jan/2017 a dez/2017 \
 Competências: `Atendimento ao Cliente`, `Administração`,<br/> `Gestão de Projetos`, `Pacote Office`, `Trabalho em Equipe`
