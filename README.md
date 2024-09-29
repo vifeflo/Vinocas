@@ -4,25 +4,22 @@
 <br>
 • 🗣️ PT nativo | EN fluente
 <br>
-• 🌱 Estudando Análise e Desenvolvimento de Sistemas
-<br>
-• 📚 [Faculdade de Tecnologia do Estado de São Paulo - Campus Rubens Lara](https://fatecrl.edu.br/)
+• 🎨 Designer de Produtos | UI/UX Designer
 <br>
 • 🌐 Portfólio pessoal: https://vinocas.github.io/
 ##
  
 ### Linguagens e ferramentas favoritas 💻⚙️
 <div align-items="center">
+ <img alt="Figma" height="48px" widht="48px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Dark.svg">
+<img alt="Adobe Photoshop" height="48px" widht="48px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Photoshop.svg">
 <img alt="HTML5" height="48px" widht="48px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg">
 <img alt="CSS3" height="48px" widht="48px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg">
 <img alt="JavaScript" height="48px" widht="48px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg">
-<img alt="Python" height="48px" widht="48px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Dark.svg">
-<img alt="C" height="48px" widht="48px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/C.svg">
+ <img alt="WordPress" height="48px" widht="48px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Wordpress.svg">
 <img alt="Visual Studio Code" height="48px" widht="48px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Dark.svg">
 <img alt="GitHub" height="48px" widht="48px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg">
-<img alt="WordPress" height="48px" widht="48px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Wordpress.svg">
-<img alt="Figma" height="48px" widht="48px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Dark.svg">
-<img alt="Adobe Photoshop" height="48px" widht="48px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Photoshop.svg">
+<img alt="Azure DevOps" height="48px" widht="48px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg">
 </div>
 
 ##
@@ -36,8 +33,15 @@
 
 ### Experiência Profissional 🧑🏻‍💼💼
 [<img align="left" width="94px" alt="ModalGR" src="https://modalgr.webcv.com.br/adm/cliente/uploads/hotsite/1546440636.png"/>](https://modalgr.com.br/)
+**Designer de Produtos Digitais** \
+[**ModalGR**](https://modalgr.com.br/) • jun/2024 \
+Competências: `Figma`, `Design System`, `Project Management`, `Azure DevOps`
+
+<br>
+
+[<img align="left" width="94px" alt="ModalGR" src="https://modalgr.webcv.com.br/adm/cliente/uploads/hotsite/1546440636.png"/>](https://modalgr.com.br/)
 **Estagiário** \
-[**ModalGR**](https://modalgr.com.br/) • jan/2024 \
+[**ModalGR**](https://modalgr.com.br/) • jan/2024 a jun/2024 \
 Competências: `Desenvolvimento Web`, `WordPress`
 
 <br>
