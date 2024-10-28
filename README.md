@@ -73,11 +73,3 @@ Linguagens e tecnologias: `C`, `JavaScript`, <br> `DOM`, `Figma`, `Pacote Office
 **Tecnologia em Sistemas Para Internet** \
 [**Fatec Rubens Lara**](https://fatecrl.edu.br/) • jan/2022 a jun/2022 (trancado) \
 Linguagens e tecnologias: `HTML5`, `CSS3`, <br> `Visual Studio Code`, `Python` `Adobe Photoshop`
-
-##
-
-### Estatísticas
-<div align-items="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vinocas&show_icons=true&locale=en&count_private=true&hide_border=true&title_color=25f776&icon_color=25b1f7&text_color=c9d1d9&bg_color=0d1117&hide_title=true" alt="Vinicius Florencio GitHub Stats"/>
-<img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vinocas&layout=compact&hide_border=true&title_color=25f776&text_color=c9d1d9&bg_color=0d1117"/>
-</div>
