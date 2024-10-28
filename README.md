@@ -6,7 +6,7 @@
 <br>
 • 🎨 Designer de Produtos | UI/UX Designer
 <br>
-• 🌐 Portfólio pessoal: https://vinocas.github.io/
+• 🌐 Portfólio pessoal: https://vifeflo.github.io/
 ##
  
 ### Linguagens e ferramentas favoritas 💻⚙️
